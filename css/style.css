@@ -12,3 +12,17 @@ body{
     font-family: "Macondo", cursive;
     
   }
+
+  :root{
+    --secondary-color: #aa9581;
+    --highlight-color: #416a8e;
+    --lighthighlight-color: #7a9fc2;
+    
+  }
+  .sub-heading-color{
+    color: var(--highlight-color);
+  }
+  p{
+    
+    color: var(--highlight-color);
+  } 
